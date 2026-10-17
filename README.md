@@ -1,4 +1,5 @@
 # Hi, I'm Raj Kapoor 👋
+<img width="2172" height="724" alt="Raj Kapoor Tech Workspace Banner" src="https://github.com/user-attachments/assets/ccbb6352-9d89-4c8e-87ba-f6120d101394" />
 
 ### MERN Stack Developer | React.js | Node.js | JavaScript
 
