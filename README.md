@@ -44,9 +44,9 @@ I build modern web applications and enjoy solving problems through clean, practi
 ### 🤝 Connect With Me
 
 - GitHub: [@Rajkapoor51](https://github.com/Rajkapoor51)
-- LinkedIn: [Add your LinkedIn URL](YOUR_LINKEDIN_URL)
-- Portfolio: [Add your portfolio URL](YOUR_PORTFOLIO_URL)
-- Email: [Add your professional email](YOUR_EMAIL)
+- LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/in/rajkapoor98)
+- Portfolio: [Add your portfolio URL](https://rajkapoor-portfolio.netlify.app/)
+- Email: [Add your professional email](rajkapoor200d@gmail.com)
 
 ---
 
