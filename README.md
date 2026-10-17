@@ -1,5 +1,6 @@
 # Hi, I'm Raj Kapoor 👋
 <img width="1200" height="300" alt="banner" src="https://github.com/user-attachments/assets/f7854b6a-86d9-41e2-bb2c-847274f675f9" />
+<img width="1200" height="320" alt="banner-v2_1" src="https://github.com/user-attachments/assets/6eaf8ed9-d7d3-42f8-a455-bb313fb4fee9" />
 
 ### MERN Stack Developer | React.js | Node.js | JavaScript
 
