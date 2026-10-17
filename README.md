@@ -1,53 +1,76 @@
-
 # Hi, I'm Raj Kapoor 👋
 
-### Software Developer | React.js | Node.js | JavaScript
+### MERN Stack Developer | React.js | Node.js | JavaScript
 
-I build modern web applications and enjoy solving problems through clean, practical code.
+I build responsive web applications, REST APIs, and practical full-stack solutions. I enjoy solving technical problems, integrating third-party services, and improving application performance.
 
-- 💻 Working with React.js, Node.js, and JavaScript
-- 🔗 Interested in REST APIs and full-stack development
-- ⚙️ Exploring Docker and CI/CD workflows
-- 🌱 Always learning and improving my skills
+- 💻 **Frontend:** React.js, Redux, JavaScript, HTML5, CSS3
+- ⚙️ **Backend:** Node.js, Express.js, Python, Flask
+- 🗄️ **Databases:** MongoDB, MySQL, PostgreSQL
+- 🚀 **DevOps:** Docker, Git, GitHub, CI/CD
+- 🤖 **Exploring:** AI/LLM integration, RAG, and MCP
+- 🌐 **Portfolio:** [Visit My Portfolio](https://rajkapoor-portfolio.netlify.app)
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,javascript,nodejs,express,mongodb,mysql,docker,git,github" alt="Technology skills" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,redux,javascript,nodejs,express,python,flask,mongodb,mysql,postgres,docker,git,github,html,css,wordpress,php" alt="Tech Stack" />
 </p>
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects
 
-- **Buddha Infotech** — https://buddhainfotech.com
-- **Aviotix** — https://aviotix.com
-- **Livespace** — Real-time live streaming and group chat
-- **More Projects** — [Explore my repositories](https://github.com/Rajkapoor51?tab=repositories)
+### 1. [Buddha Infotech](https://buddhainfotech.com)
+Responsive web application with React.js, Node.js, Express.js, and automated deployment workflows.
+
+### 2. [Aviotix](https://aviotix.com)
+Flight booking platform with flight API integration, booking management, and dynamic website content.
+
+### 3. LiveSpace
+Real-time live streaming and group chat platform built for interactive communication.
+
+### 4. Skrraggle
+Donation management platform featuring campaign management, embeddable donation widgets, donor tracking, and analytics.
+
+### 5. Adams Center
+Donation platform with payment integrations, campaign management, and donation tracking.
+
+🔎 **[Explore More Projects on GitHub →](https://github.com/Rajkapoor51?tab=repositories)**
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajkapoor51&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajkapoor51&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkapoor51&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkapoor51&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ---
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 
-- GitHub: [@Rajkapoor51](https://github.com/Rajkapoor51)
-- LinkedIn: [@Rajkapoor98](https://www.linkedin.com/in/rajkapoor98)
-- Portfolio: [@portfolio](https://rajkapoor-portfolio.netlify.app/)
-- Email: [rajkapoor200d@gmail.com](rajkapoor200d@gmail.com)
+<p align="left">
+  <a href="https://linkedin.com/in/rajkapoor98">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Rajkapoor51">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://rajkapoor-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:rajkapoor200d@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
